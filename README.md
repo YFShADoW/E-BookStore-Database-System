@@ -1,7 +1,7 @@
 # E-BookStore-Database-System
 
 This is an e-bookstore database system created with SQL using MSSQL.
-> Group Member : Yao Feng,  Jing Wen
+> Group Member : <a href="https://github.com/YFShADoW">Yao Feng</a>,  <a href="https://github.com/Jingwen0515">Jing Wen</a>
 
 ## Introduction to Database Management
 
